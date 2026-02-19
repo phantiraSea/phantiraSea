@@ -20,22 +20,22 @@ Currently working in the UK, I focus on developing data-driven and AI-powered sy
 🚀 **Interests**: Applied AI, intelligent automation, system design, fintech, real-world ML
 
 ⚙️ **Experience**:
-- Embedded Systems: C/C++, Python, STM32, FreeRTOS, DSP fundamentals, signal processing (NumPy, Pandas), instrumentation & automation (PyVISA), control systems, measurement automation, Python desktop applications
+- **Embedded Systems:** C/C++, Python, STM32, FreeRTOS, DSP fundamentals, signal processing (NumPy, Pandas), instrumentation & automation (PyVISA), control systems, measurement automation, Python desktop applications
 
-- AI & Computer Vision: Python, CNN models, TensorFlow, OpenCV, feature engineering, model optimization for deployment, MATLAB, applied ML pipelines
+- **AI & Computer Vision:** Python, CNN models, TensorFlow, OpenCV, feature engineering, model optimization for deployment, MATLAB, applied ML pipelines
 
-- Web Development & Backend Systems: 
+- **Web Development & Backend Systems:** 
 Backend: Python, Django, RESTful APIs
 Frontend: JavaScript/TypeScript, React, Angular, HTML, CSS
 Architecture: Microservices, system integration
 Data: PostgreSQL, MongoDB
 Tooling: Git, CI/CD (Azure), RabbitMQ, background jobs & scheduling
 
-- Data: SQL, Python (NumPy, Pandas), data pipelines, data cleaning & analysis, MongoDB/PostgreSQL, visualization & dashboards, Power BI, Excel (advanced formulas & macros), Google Sheets Apps Script
+- **Data:** SQL, Python (NumPy, Pandas), data pipelines, data cleaning & analysis, MongoDB/PostgreSQL, visualization & dashboards, Power BI, Excel (advanced formulas & macros), Google Sheets Apps Script
 
-- Analytics: Business analysis, process optimization, KPI design & performance tracking, cost & revenue analysis, insight storytelling, product analytics, project coordination
+- **Analytics:** Business analysis, process optimization, KPI design & performance tracking, cost & revenue analysis, insight storytelling, product analytics, project coordination
 
-- Robotics & Autonomous Systems: ROS / ROS2, SLAM fundamentals, robotic perception, UR RTDE / robot control, sensor integration, IoT systems, coordination of robotic workflows
+- **Robotics & Autonomous Systems:** ROS / ROS2, SLAM fundamentals, robotic perception, UR RTDE / robot control, sensor integration, IoT systems, coordination of robotic workflows
 
 
 ***
