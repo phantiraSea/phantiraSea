@@ -31,11 +31,11 @@ Currently working in the UK, I focus on developing data-driven and AI-powered sy
 
 - **AI & Computer Vision:** Python, CNN models, TensorFlow, OpenCV, feature engineering, model optimization for deployment, MATLAB, applied ML pipelines
 
-- **Web Development & Backend Systems:** 
-Backend: Python, Django, RESTful APIs
-Frontend: JavaScript/TypeScript, React, Angular, HTML, CSS
-Architecture: Microservices, system integration
-Data: PostgreSQL, MongoDB
+- **Web Development & Backend Systems:** <br>
+Backend: Python, Django, RESTful APIs <br>
+Frontend: JavaScript/TypeScript, React, Angular, HTML, CSS <br>
+Architecture: Microservices, system integration <br>
+Data: PostgreSQL, MongoDB <br>
 Tooling: Git, CI/CD (Azure), RabbitMQ, background jobs & scheduling
 
 - **Data:** SQL, Python (NumPy, Pandas), data pipelines, data cleaning & analysis, MongoDB/PostgreSQL, visualization & dashboards, Power BI, Excel (advanced formulas & macros), Google Sheets Apps Script
